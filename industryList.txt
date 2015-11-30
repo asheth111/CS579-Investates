@@ -1,119 +1,16 @@
 Agribusiness Crop Production & Basic Processing Vegetables & Fruits Sugar Cane & Sugar Beets Tobacco Dairy Poultry & Eggs Livestock Agricultural Services & Products Farm Bureaus Food Processing & Sales Food Products Manufacturing Food Stores Meat processing & products Forestry & Forest Products
-InformationTechnology programming security information Artificial Intelligance Algorithm Computer Science parallel Computing multimedia systems virtual reality software open source graphics hacking emulators Computer Software database programming code codeing front end back end
+InformationTechnology ip programming security information Artificial Intelligence Algorithm Computer Science parallel Computing multimedia systems virtual reality software open source graphics hacking emulators Computer Software database programming code coding front end back end
 CommunicationsAndElectronics Printing & Publishing Books, Magazines & Newspapers TV / Movies / Music Cable & Satellite TV Production & Distribution Commercial TV & Radio Stations Motion Picture Production & Distribution Recorded Music & Music Production TV Production Telephone Utilities Telecom Services & Equipment Electronics Manufacturing & Equipment Internet
-Construction
-     General Contractors
-     Home Builders
-     Special Trade Contractors
-     Construction Services
-           Architectural Services
-     Building Materials & Equipment
-Defense
-     Defense Aerospace
-     Defense Electronics
-     Miscellaneous Defense
-Energy & Natural Resources
-     Oil & Gas
-           Natural Gas Pipelines
-     Mining
-           Coal Mining
-     Alternative Energy Production & Services
-     Electric Utilities
-     Waste Management
-Finance, Insurance & Real Estate
-     Commercial Banks
-     Savings & Loans
-     Credit Unions
-     Finance / Credit Companies
-           Student Loan Companies
-           Payday Lenders
-     Securities & Investment
-           Venture Capital
-           Hedge Funds
-           Private Equity & Investment Firms
-     Insurance
-     Real Estate
-           Mortgage Bankers & Brokers
-     Accountants
-     Misc Finance
-Health
-     Health Professionals
-           Chiropractors
-           Dentists
-           Nurses
-     Hospitals & Nursing Homes
-     Health Services/HMOs
-     Pharmaceuticals / Health Products
-           Medical Supplies
-           Nutritional & Dietary Supplements
-           Pharmaceutical Manufacturing
-Ideological/Single-Issue
-     Republican/Conservative
-     Democratic/Liberal
-     Leadership PACs
-           Democratic Leadership PACs
-           Republican Leadership PACs
-     Foreign & Defense Policy
-     Pro-Israel
-     Women's Issues
-     Human Rights
-           Gay & Lesbian Rights & Issues
-     Environment
-     Gun Control
-     Gun Rights
-     Abortion Policy/Anti-Abortion
-     Abortion Policy/Pro-Abortion Rights
-     Candidate Committees
-           Republican Candidate Committees
-           Democratic Candidate Committees
-Labor
-     Building Trade Unions
-     Industrial Unions
-     Transportation Unions
-           Air Transport Unions
-     Public Sector Unions
-           Postal Unions
-           Teachers Unions
-     Misc Unions
-Lawyers & Lobbyists
-     Lawyers / Law Firms
-     Lobbyists
-Misc Business
-     Business Associations
-     Food & Beverage
-           Restaurants & Drinking Establishments
-     Beer, Wine & Liquor
-     Retail Sales
-     Miscellaneous Services
-           Funeral Services
-     Business Services
-           Advertising/Public Relations
-     Recreation / Live Entertainment
-           Professional Sports, Sports Arenas & Related Equipment & Services
-     Casinos / Gambling
-           Indian Gaming
-     Lodging / Tourism
-     Chemical & Related Manufacturing
-     Steel Production
-     Misc Manufacturing & Distributing
-           Clothing Manufacturing
-     Textiles
-Other
-     Non-profits, Foundations & Philanthropists
-     Civil Servants/Public Officials
-     Education
-           For-profit Education
-     Clergy & Religious Organizations
-     Retired
-Transportation
-     Air Transport
-           Airlines
-     Automotive
-           Auto Manufacturers
-           Car Dealers
-           Car Dealers, Imports
-     Trucking
-     Railroads
-     Sea Transport
-           Cruise Ships & Lines
- 
+Construction Contractors Home Builders Contractors Construction Architectural Building Materials Equipment
+Defence Defence Aerospace war terrorist plane helicopter defense gun 
+EnergyandNaturalResources Oil Gas Natural pipelines Coal Mining Energy Electric Utilities Waste Management
+Finance Insurance Real Estate Commercial Banks Savings Loans Credit Unions Finance Credit Companies Loan Companies Payday Lenders Investment Venture Capital Hedge Funds Equity Firms Insurance Real Estate Mortgage Bankers Brokers Accountants Business 
+Health Health Professionals Chiropractors Dentists Nurses Hospitals Nursing Homes HMOs Pharmaceuticals Medical Supplies Nutritional Dietary Supplements Manufacturing
+IdeologicalandSingleIssue Republican/Conservative Democratic/Liberal Leadership PACs Democratic  Republican Leadership PACs Foreign Defense Policy Pro-Israel Women's Human Gay Lesbian Environment Control Rights issue Abortion Republican Democratic
+Labor Building Trade Unions Industrial Transportation Air Transport Public Sector Postal Teachers Lawyers Lobbyists Lawyers Law Firms judge 
+Food Beverage Restaurants Drinking Beer Wine Liquor  
+Entertainment recreation Sports Arenas Equipment Casinos Gambling Gaming
+Tourism lodging tourist tour beach hotel motel room Advertising 
+Manufacturing Steel Production Manufacturing Distributing Clothing Textiles machine equipment product  
+Education non profit Education teacher student college university exam book books study laptop professor math science technology history physics marks grade result 
+Transportation Transport Airlines Automotive Auto Manufacturers Car Dealers trucking Railroads Sea Cruise Ships Lines goods cars pool passanger traffic highways trailer bus truck 
